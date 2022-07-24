@@ -6,9 +6,9 @@ Project installation steps:
 
 3.Modify the database and redis connect configuration (.env) file.
 
-3.Execute the command(php artisan migrate) to automatically generate the database table.
+4.Execute the command(php artisan migrate) to automatically generate the database table.
 
-4.Enter the domain name to access.
+5.Enter the domain name to access.
 
 ================================================================
 
